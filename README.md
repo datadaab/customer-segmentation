@@ -2,6 +2,8 @@
 
 # Customer Segmentation Using K-Means Clustering
 
+Click here to view my [Jupyter Notebook](https://github.com/datadaab/customer-segmentation/blob/main/Customer_Segmentation.ipynb).
+
 ## Overview
 
 This project focuses on the targeted use of k-means clustering to segment approximately 2000 customer IDs from a wholesale market campaign. By applying this machine learning technique, the project successfully identifies three homogeneous customer groups. These segments provide a foundation for developing specific marketing strategies tailored to each group's unique characteristics and needs.
