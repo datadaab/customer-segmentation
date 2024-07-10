@@ -1,3 +1,5 @@
+![Title Image](https://github.com/datadaab/time-based-cohort-analysis/blob/main/segments.jpg)
+
 # Customer Segmentation Using K-Means Clustering
 
 ## Overview
